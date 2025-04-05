@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.libraries    = ['z', 'bz2', 'c++', 'iconv']
 
   # 源代码来源 (注意：URL 中的版本号已更新为 v6.0)
-  s.source       = { :http => 'https://firebasestorage.googleapis.com/v0/b/insrepost-19c11.appspot.com/o/ffmpeg-kit-https-6.0-ios-xcframework.zip?alt=media&token=52381959-8c94-494c-a085-69b6293798a0' }
+  s.source       = { :http => 'https://github.com/huix9527/ffmpeg-kit-ios-https-alt/releases/download/v2.0.0/ffmpeg-kit-https-6.0-ios-xcframework.zip' }
 
   # iOS 平台特定设置
   # 依赖的系统框架
