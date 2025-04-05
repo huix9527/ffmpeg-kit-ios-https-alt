@@ -22,7 +22,7 @@
     "iconv"
   ],
   "source": {
-    "http": "https://github.com/arthenica/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-https-6.0-ios-xcframework.zip"
+    "http": "https://firebasestorage.googleapis.com/v0/b/insrepost-19c11.appspot.com/o/ffmpeg-kit-https-6.0-ios-xcframework.zip?alt=media&token=52381959-8c94-494c-a085-69b6293798a0"
   },
   "ios": {
     "frameworks": [
